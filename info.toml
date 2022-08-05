@@ -1,0 +1,13 @@
+[meta]
+name = "Super Medals"
+author = "Greep"
+category = "Race"
+siteid = 236
+
+version = "1.0.0"
+
+[script]
+imports = [ "Time.as" ]
+dependencies = [ "ChampionMedals" ]
+exports = [ "src/Export.as" ]
+timeout = 0
