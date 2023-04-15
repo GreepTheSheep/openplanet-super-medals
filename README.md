@@ -11,5 +11,5 @@ This plugin brings:
 
 **Important: To be able to get there medals, the [Champion Medals](https://openplanet.dev/plugin/championmedals) plugin is required**
 
-**Important 2: To be able to visualise there medals, we suggest using [Ultimate Medals](https://openplanet.dev/plugin/ultimatemedals) window.**
+**Important 2: To be able to visualise there medals, we suggest using [this fork of Ultimate Medals](https://github.com/15009199/tm-ultimate-medals-with-super-medals) window.**
 **⚠ The medals are not visible by default, to make them visible, check the "Show Super Gold/Silver/Bronze" button on Ultimate Medals settings**
